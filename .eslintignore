@@ -1,0 +1,15 @@
+build
+node_modules
+*.config.js
+.eslintrc.js
+.next
+.husky
+.vscode
+src/**/*.test*
+coverage
+.storybook
+.circleci
+storybook-static
+.eslintrc.js
+commitlint.config.js
+vite.config.ts
