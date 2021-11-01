@@ -3,9 +3,10 @@ import ReactDOM from 'react-dom'
 
 import { ThemeProvider } from '@xstyled/styled-components'
 
+import App from 'components/pages/App'
+
 import theme from 'theme'
 
-import App from './App'
 import 'theme/preflight.css'
 
 ReactDOM.render(

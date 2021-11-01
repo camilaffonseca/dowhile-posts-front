@@ -9,6 +9,7 @@ export default defineConfig({
     alias: {
       theme: '/src/theme',
       images: '/src/images',
+      components: '/src/components',
     },
   },
 })
