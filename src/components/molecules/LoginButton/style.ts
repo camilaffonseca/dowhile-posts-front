@@ -10,8 +10,7 @@ const Button = styled(Link)`
   text-decoration: none;
   text-transform: uppercase;
   height: 56px;
-  width: 100%;
-  max-width: 100vw;
+  max-width: 100%;
   background-color: ${({ theme }) => theme.colors.yellow};
   color: ${({ theme }) => theme.colors.neutral.n100};
   font-size: 14px;
